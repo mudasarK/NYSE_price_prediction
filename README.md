@@ -1,1 +1,1 @@
-# NY_stockexchnage_price_predection
+# NEW YORK Stock Exchnage Price Predection
