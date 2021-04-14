@@ -2,14 +2,14 @@
 This notebook demonstrates the future price prediction for different stocks using recurrent neural networks in tensorflow. Recurrent neural networks with LSTM cells are implemented.
 
 
-# Data Visualization
+## Data Visualization
 
 ![alt text](/images/Data.png) 
 
 
-# Data Preprocessing
+## Data Preprocessing
 ![alt text](/images/data_prprocessing.png)
 
 
-# Predictions/Results 
+## Predictions/Results 
 ![alt text](/images/Results.png)
